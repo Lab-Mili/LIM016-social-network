@@ -32,18 +32,18 @@ const templateHome = `
         <textarea class="textareaPublish" id="textPost" rows="3" placeholder="¿Qué estás pensando?"></textarea>
         <div class="containerIconsBtn">
           <div class="addPost">
-            <input id="fichero" type="file">           
+            <input id="fichero" type="file">
             <label for="fichero" class="circle"> <i class="far fa-image fileIcon"></i> </label>
-           
+
             <button class="postBtn" id="btnPublish">Publicar</button>
-          </div>          
+          </div>
         </div>
-        
+
       </form>
     </div>
     <div id="postContainer">
     </div>
-   
+
     <div id="miModalPublishVoid" class="closeModal">
       <div class="modal-contenidoReturn">
         <h5 class="h2Modal">Tu publicación está vacia!</h5>
