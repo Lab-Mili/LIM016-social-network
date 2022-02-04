@@ -4,7 +4,6 @@
 ### 1. Introducción 💹
 
 Entre tantas redes sociales existentes, creamos una completamente dedicada al mundo de las criptomonedas. 
-
 Netcoins, es el espacio ideal para todos aquellos que deseen conocer las noticias más importantes de la industria, estar al tanto de las oportunidades del mercado, aprender y compartir sus conocimientos sobre criptomonedas.
 
 
