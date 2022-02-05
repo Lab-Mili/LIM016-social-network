@@ -71,11 +71,10 @@ export default () => {
                 if (displayName == doc.data().nameUser) {
                     idUsuarioLogin = doc.data().idUser;
                     followed = doc.data().followed;
-                    console.log("aquyiiiiii", followed)
+
                 }
             });
         }
-        console.log(followed);
         let imagenAdd;
         let contStars = [];
         let contHearts = [];
@@ -85,7 +84,7 @@ export default () => {
             post = doc.data();
             post.id = doc.id;
             idPosts = post.id;
-            contentPosts = doc.data().content;
+            contentPosts = post.content;
             dateOfPublish = doc.data().datePublish;
             hourPublish = doc.data().hourPublish;
             userName = doc.data().userName;
@@ -97,6 +96,7 @@ export default () => {
 
             let iconStars;
             let iconHearts;
+
             let btnFollow = document.querySelectorAll(".btnFollow");
 
             (contStars.indexOf(idUsuarioLogin) !== -1) ? iconStars = 'paint': iconStars = '';
@@ -288,6 +288,13 @@ export default () => {
 };
 
 export {
-  showPublish, getFileAdd, displayName, photoURL, email,
-  userid, formPublish, miModalPublishVoid, btnReturn,
+    showPublish,
+    getFileAdd,
+    displayName,
+    photoURL,
+    email,
+    userid,
+    formPublish,
+    miModalPublishVoid,
+    btnReturn,
 };
