@@ -25,7 +25,7 @@ Netcoins es una single-page responsive, la cual cuenta con 5 vistas. Permite a c
 
 ¿Quienes son los principales usuarios?
 
-Identificamos como principales usuarios a las personas interesadas en el uso de las criptomonedas o dinero digital.
+Identificamos como principales usuarios a las personas interesadas en el uso de las criptomonedas o dinero digital.  
 
 
 ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
