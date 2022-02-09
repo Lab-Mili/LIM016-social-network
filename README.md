@@ -1,10 +1,9 @@
-# Netcoins: la red social para los apasionados de las Criptomonedas 
+# Netcoins: La red social para los apasionados de las Criptomonedas!!!
 ******************
 
 ### 1. Introducción 💹
 
 Entre tantas redes sociales existentes, creamos una completamente dedicada al mundo de las criptomonedas. 
-
 Netcoins, es el espacio ideal para todos aquellos que deseen conocer las noticias más importantes de la industria, estar al tanto de las oportunidades del mercado, aprender y compartir sus conocimientos sobre criptomonedas.
 
 
@@ -20,13 +19,13 @@ Netcoins es una single-page responsive, la cual cuenta con 5 vistas. Permite a c
 * Vista Desktop 💻
 
   [![vista-Destopk.png](https://i.postimg.cc/wB9mvGkh/vista-Destopk.png)](https://postimg.cc/cv5HkT2H)
-[![Netcoins-Google-Chrome-25-01-2022-20-46-45-4.png](https://i.postimg.cc/ZRmwCbsw/Netcoins-Google-Chrome-25-01-2022-20-46-45-4.png)](https://postimg.cc/yJfmGHHR)
+
 
 ### 3. Definición del Producto 
 
 ¿Quienes son los principales usuarios?
 
-Identificamos como principales usuarios a las personas interesadas en el uso de las criptomonedas o dinero digital.
+Identificamos como principales usuarios a las personas interesadas en el uso de las criptomonedas o dinero digital.  
 
 
 ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
